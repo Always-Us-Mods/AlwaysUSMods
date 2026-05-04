@@ -31,14 +31,14 @@ I'm currently developing a large-scale gameplay mechanic for *7 Days to Die*, fo
 
 ### 🎥 Content Creation
 
-📺 [YouTube – Demonata Gaming](https://www.youtube.com/@demonatagaming)\
+📺 [YouTube – Demonata Gaming](https://www.youtube.com/@demonatagaming)
 Tutorials and playthroughs videos.
 
 ***
 
 ### 🧩 Platforms
 
-- 🔨 [Nexus Mods Profile](https://next.nexusmods.com/profile/DemonataGaming)
+- 🔨 [Nexus Mods Profile](https://www.nexusmods.com/profile/AlwaysUsMods)
 - 🧪 GitHub (You're Here)
 
 ***
