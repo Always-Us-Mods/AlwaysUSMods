@@ -11,19 +11,19 @@ I try to balance, refine, and overhaul gameplay systems to create deeper, more i
 **🎯 Featured Mod:**
 > Changes various aspects of 7 Days to Die to bring back some of the sandbox feel of the game.
 
-📂 [Download on GitHub](https://github.com/Kraevac/Demonata-Core/releases)
+📂 [Download on GitHub](https://github.com/Always-Us-Mods/Demonata-Core/releases)
 
 > Removes intrusive visual effects from the 2.0 Progression system to improve visibility and reduce player fatigue.
  
 📌 [Screen Effects Be Gone (7 Days to Die)](https://www.nexusmods.com/7daystodie/mods/8238?tab=files)
 
-📂 [Download on GitHub](https://github.com/Kraevac/ScreenEffectsBeGone_Release)
+📂 [Download on GitHub](https://github.com/Always-Us-Mods/ScreenEffectsBeGone_Release)
 
 > Removes intrusive sound effects from the 2.0 Progression system to reduce player fatigue.
 
 📌[Sound Effects Be Gone (7 Days To Die)](https://www.nexusmods.com/7daystodie/mods/8267)
 
-📂[Download on GitHub](https://github.com/Kraevac/SoundEffectsBeGone_Release)
+📂[Download on GitHub](https://github.com/Always-Us-Mods/SoundEffectsBeGone_Release)
 
 I'm currently developing a large-scale gameplay mechanic for *7 Days to Die*, focusing on a new (de)buff system to increase realism and add a little more danger to the gameplay loop.
 
